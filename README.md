@@ -1,5 +1,8 @@
 # M4A to MP3 Converter
 
+![Python](https://img.shields.io/badge/language-python-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 This project provides a simple Python script to convert `.m4a` audio files into `.mp3` format using `pydub` and `ffmpeg`.
 
 ---
